@@ -4,7 +4,7 @@ The accompanying code for our blog article.
 
 ## Dependencies
 - Python 2.7.13
-- Greenplum 5.0.0 alpha 2
+- Greenplum 5.0.0-alpha 1 (VMware)
 
 ## Copyright
 
